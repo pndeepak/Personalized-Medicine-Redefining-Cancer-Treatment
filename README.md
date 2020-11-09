@@ -15,3 +15,30 @@ For this competition MSKCC is making available an expert-annotated knowledge bas
 Develop Machine Learning algorithm that, using gene knowledge base as a baseline, automatically classifies genetic variations.
 
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/overview
+
+# Overview
+
+This is a multiclass classification problem where we have to classify the given data into 9 various classes. This notebook will demonstrate several ML algorithms and their comparisons based on multi class log-loss.
+
+# Notebook contents
+
+- Problem Description
+- Problem Overview
+- Exploratory Data Analysis
+- Data splitting and vectorization
+- Machine Learning Models
+- Comparison of all ML models
+
+# Algorithms used
+
+- Naive Bayes
+- Logistic Regression
+- Linear SVM
+- Stacking classifier
+- Majority Voting Classifier
+
+# Tools and technologies used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=170>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" width=180 height=100>](https://www.nltk.org/) [<img target="_blank" src="https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg" width=200>](https://colab.research.google.com/) 
